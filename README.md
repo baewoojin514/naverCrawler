@@ -5,3 +5,4 @@
 페이지를 새로고침
 네이버 부동산은 매물울 “article” 로 관리하는데, 해당 API를 찾아 response를 분석 (Json format)
 카카오 Developers rest api 페이지를 정독/조사하고, 자기 자신에게 카카오톡 메세지를 보낼 수 있도록 준비
+
